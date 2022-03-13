@@ -6,7 +6,7 @@ ITEM: Helmet
 ITEM: Goggles
 ITEM: Gloves
 ITEM: Face Mask
-ITEM: Sunscreen
+ITEM: Sunscreen + Chapstick
 ITEM: Ski Pass
 ITEM: Pants + Jacket
 ITEM: Road trip snacks + Water Bottles!
